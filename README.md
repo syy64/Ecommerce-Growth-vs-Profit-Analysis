@@ -38,9 +38,9 @@ Disciplined growth, supported by careful CAC monitoring, represents the optimal 
  
 
 ## 📁 Project Files
-- `ecommerce_analysis_growth_vs_profit.xlsx` — Main analysis file  
-- `CASE_STUDY.pdf` — Detailed business case and full insights  
-- `dashboardwog.png` - Visual Dashboard
+- [Excel Analysis](ecommerce_analysis_growth_vs_profit.xlsx)
+- [Full Case Study](case_study.pdf)    
+- [Visual Dashboard](dashboardwog.png)
 
 
 ## 👤 Author
